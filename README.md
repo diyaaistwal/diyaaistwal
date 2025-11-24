@@ -1,6 +1,6 @@
 # About-Me
 
-20 | CSE Undergrad |
+21 | CSE Undergrad |
 
 Hello, I'm Diya Istwal, a final-year B.Tech student specializing in Artificial Intelligence and Data Science at Graphic Era University, Dehradun, India.
 
